@@ -1,0 +1,22 @@
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    padding: 5px;
+    display: block;
+}
+.quadrado2{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    padding: 5px;
+    display: block;
+
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    gap: 40px;
+    padding: 20px;
+    justify-content: center;
+}
